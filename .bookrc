@@ -1,0 +1,12 @@
+{
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "name": "Villette",
+  "type": "text",
+  "has_page_numbers": true,
+  "book_id": 699
+}
